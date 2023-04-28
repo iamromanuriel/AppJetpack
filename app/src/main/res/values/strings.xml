@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AppJetpack</string>
+    <style name="txt_name">Nombre:</style>
+    <style name="txt_yield">Edad:</style>
+</resources>
